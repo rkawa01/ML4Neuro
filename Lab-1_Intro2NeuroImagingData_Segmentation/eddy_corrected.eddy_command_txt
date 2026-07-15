@@ -1,0 +1,1 @@
+/Users/radek.kawa/fsl/bin/eddy_cpu --imain=diffusion_data.nii.gz --mask=brain_mask.nii.gz --acqp=acquisition_parameters.txt --index=index.txt --bvecs=bvecs.txt --bvals=bvals.txt --out=eddy_corrected
